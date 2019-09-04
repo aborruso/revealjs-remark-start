@@ -5,5 +5,5 @@ Tutte le volte che voglio creare delle ***slide* HTML** - come [queste](https://
 
 Questo repository nasce per **risolvere** questo mio **problema**: lo scarico in una nuova cartella e devo soltanto pensare al file *markdown* in cui inserire il contenuto delle slide.
 
-![](./imgs/esempio_01.png)
+[![](./imgs/esempio_01.png)](https://aborruso.github.io/revealjs-start)
 
