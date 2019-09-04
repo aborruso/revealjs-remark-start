@@ -23,7 +23,7 @@ L'URL di **download** è <https://github.com/aborruso/revealjs-start/archive/mas
 
 ## Modifica e arrichischi il file di esempio con i contenuti
 
-I contenuti delle *slide* sono basate sul file `markdown` denominato `**input.md**` che trovi nella radice della cartella
+I contenuti delle *slide* sono basate sul file `markdown` denominato **`input.md`** che trovi nella radice della cartella
 
 --
 
