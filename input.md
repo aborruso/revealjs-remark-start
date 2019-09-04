@@ -1,6 +1,6 @@
-## Slide 0
+# reveal.js start
 
-ciao
+Un *repository* che ti consente di partire bene e presto con delle *slide* HTML basate su reveal.js
 
 --
 
