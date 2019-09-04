@@ -29,7 +29,7 @@ I contenuti delle *slide* sono basate sul file `markdown` denominato `input.md` 
 
 ## Guarda le tue slide
 
-Per guardare le tue slide e/o averne un'anteprima mentre le stai creando, devi lanciare un server web, puntare alla cartella e aprire il file `index.html`
+Per guardare le tue slide e/o averne un'anteprima mentre le stai creando, devi lanciare un *server web*, puntare alla cartella e aprire il file `index.html`
 
 ---
 
