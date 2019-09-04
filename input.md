@@ -23,7 +23,11 @@ L'URL di download è <https://github.com/aborruso/revealjs-start/archive/master.
 
 ## Modifica e arrichischi il file di esempio con i contenuti
 
-Cambia il colore di sfondo
+I contenuti delle *slide* sono basate sul file `markdown` denominato `input.md` che trovi nella radice della cartella.
+
+## Guarda le tue slide
+
+Per guardare le tue slide e/o averne un'anteprima mentre le stai creando, devi lanciare un server web
 
 ---
 
