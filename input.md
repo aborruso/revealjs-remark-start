@@ -2,7 +2,7 @@
 
 # reveal.js start
 
-Un [*repository*](https://github.com/aborruso/revealjs-start) che ti consente di partire **bene** e **presto** con delle ***slide*** **HTML** basate su **reveal.js**
+Un **[*repository*](https://github.com/aborruso/revealjs-start)** che ti consente di partire **bene** e **presto** con delle ***slide*** **HTML** basate su **reveal.js**
 
 --
 
