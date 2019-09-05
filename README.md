@@ -7,3 +7,14 @@ Questo repository nasce per **risolvere** questo mio **problema**: lo scarico in
 
 [![](./imgs/esempio_01.png)](https://aborruso.github.io/revealjs-start)
 
+
+
+# Come fare
+
+- **Scarica** lo zip del **repository**, da qui <https://github.com/aborruso/revealjs-start/archive/master.zip>;
+- **decomprimilo** in una cartella;
+- **modifica** e arrichischi i **contenuti** delle slide, lavorando sul file `markdown` di esempio denominato **`input.md`**, che trovi nella radice della cartella;
+- **guarda** le tue **slide**, lanciando un ***server web***, puntando alla cartella e aprendo il file `index.html`.
+
+
+
