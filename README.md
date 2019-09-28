@@ -15,6 +15,4 @@ Questo repository nasce per **risolvere** questo mio **problema**: lo scarico in
 - **decomprimilo** in una cartella;
 - **modifica** e arrichischi i **contenuti** delle slide, lavorando sul file `markdown` di esempio denominato **`input.md`**, che trovi nella radice della cartella;
 - **guarda** le tue **slide**, lanciando un ***server web***, puntando alla cartella e aprendo il file `index.html`.
-
-
-
+  - se hai python3 installato, puoi lanciare `python3 -m http.server`
