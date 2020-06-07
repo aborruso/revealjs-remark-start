@@ -16,3 +16,36 @@ Questo repository nasce per **risolvere** questo mio **problema**: lo scarico in
 - **modifica** e arrichischi i **contenuti** delle slide, lavorando sul file `markdown` di esempio denominato **`input.md`**, che trovi nella radice della cartella;
 - **guarda** le tue **slide**, lanciando un ***server web***, puntando alla cartella e aprendo il file `index.html`.
   - se hai python3 installato, puoi lanciare `python3 -m http.server`
+
+# Note
+
+## Configurazione
+
+Per impostare i parametri di configurazione di `reveal.js`, si può aprire il file [`index.html`](./index.html) e modificare la parte
+
+```html
+<script>
+
+  // More info https://github.com/hakimel/reveal.js#configuration
+  Reveal.initialize({
+    controls: true,
+    progress: true,
+    center: true,
+    hash: true,
+    slideNumber: true,
+
+    transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+    // More info https://github.com/hakimel/reveal.js#dependencies
+    dependencies: [
+      { src: 'plugin/markdown/marked.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+      { src: 'plugin/markdown/markdown.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+      { src: 'plugin/highlight/highlight.js', async: true },
+      { src: 'plugin/search/search.js', async: true },
+      { src: 'plugin/zoom-js/zoom.js', async: true },
+      { src: 'plugin/notes/notes.js', async: true }
+    ]
+  });
+
+</script>
+```
