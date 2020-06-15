@@ -2,20 +2,13 @@
 
 # Pippo
 
-
 --
 
 ## Pluto
 
-
 --
 
 ## Paperino
-
-
---
-
-## Decomprimilo in una cartella
 
 ---
 
